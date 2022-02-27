@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ecc2adf-430e-4bbc-ba6d-cb6f317e1d25": {
+      "ProjectGuid": "3ecc2adf-430e-4bbc-ba6d-cb6f317e1d25",
+      "DisplayName": "OktaOAuthPOC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
